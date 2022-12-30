@@ -1,2 +1,2 @@
 # News_Report
-News reporting app 
+This app acces news about a particular topic and sends them by email
